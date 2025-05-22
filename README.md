@@ -174,3 +174,4 @@ Ce moteur est calibré pour faire partie du top 5 % des bots transposables, avec
 
 En cas de réussite, la stratégie globale démultiplie sa force grâce à des duplications sur des spécialisations dérivées mais compatibles.
 
+TARIK  
