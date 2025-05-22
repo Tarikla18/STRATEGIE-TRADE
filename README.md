@@ -1,168 +1,176 @@
-Moteur Chirurgical 1000–3300 – Version Finale Verrouillée
+Moteur Chirurgical – Version Complète (Objectif 1000 € → 3300 €)
 
-Statut : Moteur principal – Objectif : passer de 1000€ à 3300€ (Phase 1 uniquement)
-Objectif : Automatiser un moteur transposable au réel, ultra-spécialisé, chirurgical, avec très haut taux de réussite, sans levier, avec duplication possible en cas de réussite.
+1. Objectif
 
-1. Objectif stratégique
+Atteindre 3300 € à partir de 1000 € de capital initial sans levier, avec un moteur chirurgical ultra-spécialisé, transposable au réel, réaliste et dupliquable.
 
-Transformer 1000€ en 3300€ sans levier, par une stratégie chirurgicale, réaliste, et entièrement transposable.
+Ce moteur constitue la Phase 1 du projet global. Pas de transformation de comportement en cours de route : il conserve toute sa logique jusqu'à l'objectif atteint.
 
-Aucun enrichissement progressif prévu (pas de Phase 2, pas d’extension prévue pendant la Phase 1).
+2. Style du moteur
 
-2. Philosophie du moteur
+Type : Chirurgical, spécialisé, à faible cadence mais forte précision.
 
-Moins de modules, plus de précision.
+Modules actifs : 4 à 5 maximum (strictement).
 
-Zéro surcharge comportementale.
+Cadence : Attente des alignements parfaits.
 
-Pas de swing long, pas de cluster narratif, pas de duplications internes.
+Optimisation comportementale : Système d'auto-ajustement activé.
 
-Tout est orienté efficacité immédiate et sécurité.
+Spécialisation : Pattern unique étroitement défini.
 
-3. Modules actifs (maximum autorisé : 5 modules)
+3. Modules actifs (verrouillés au lancement)
 
-Module 1 : Filtre narratif croisé (Twitter + Telegram ou Twitter + LunarCrush)
+1. ✨ Module de spécialisation absolue
 
-Entrée autorisée uniquement si 2 flux convergent.
+Focus sur 1 seul pattern comportemental gagnant.
 
-Blocage automatique si divergence de sentiment ou absence de corrélation mentions/volume.
+Système de gel automatique si 3 échecs consécutifs.
 
-Module 2 : Score comportemental dynamique (volatilité stable sur 5 bougies)
+Réactivation si le pattern réussit sur un autre token ou si les conditions reviennent à la normale.
 
-Évalue la stabilité post-pic narratif.
+2. 🤖 IA de scoring narratif croisant 2 flux minimum
 
-Entrée suspendue si comportement erratique ou anomalies de volume.
+Ex : Twitter + Telegram ou LunarCrush + Reddit.
 
-Module 3 : Micro-filtre horaire
+Score minimum requis pour autoriser une frappe : 75/100.
 
-Interdiction de frappe dans les 15 premières minutes de chaque heure (pics algorithmiques).
+Blocage automatique si mentions > 200 % sans volume associé.
 
-Déblocage uniquement si triple convergence (volume, structure, narratif).
+3. 📊 Score comportemental dynamique
 
-Module 4 : Mécanisme de slot unique
+Si comportement erratique (volatilité brusque, méchantes mèches) : blocage.
 
-Une seule position ouverte à la fois (aucun stacking).
+Si stabilité comportementale post-narratif pendant 4 bougies : validation.
 
-Permet d’éviter la dispersion et de concentrer l’analyse adaptative post-trade.
+4. ⏳ Filtre horaire évolutif
 
-Module 5 : Superviseur comportemental
+Interdiction de frappe pendant les 15 premières minutes de chaque heure.
 
-Surveille tous les blocages, validités non exploitées, écarts de rendement.
+Désactivation uniquement si triple validation active : narratif + volume + structure.
 
-Réduction automatique du rythme si 2 frappes échouées consécutives.
+5. 📊 Journal de frappe + auto-ajustement comportemental
 
-Gel temporaire du pattern si 2 échecs similaires.
+Détection des anomalies de réaction.
 
-4. Seuils d’entrée
+Ajustement des modules ou slots automatiquement.
+
+Gel de slot spéculatif en cas de 2 erreurs consécutives.
+
+4. Conditions de frappe (triple verrouillage)
+
+✅ Frappe autorisée uniquement si :
+
+Signal narratif actif sur 2 flux minimum.
 
 Volume > 2x moyenne 5 jours.
 
-Structure propre : breakout imminent ou pullback sur zone clé sans résistance majeure.
+Structure technique propre (breakout, squeeze, etc.).
 
-Narratif actif multi-sources pendant >10 minutes.
+Comportement post-signal stable (score comportemental > 70 %).
 
-Score comportemental ≥ 70/100.
+5. Capital & expositions
 
-5. Allocation capital par frappe
+Capital initial : 1000 €
 
-Allocation par frappe : 200€ à 400€ maximum.
+Position unique à la fois
 
-Jamais plus de 40% du capital en une seule frappe.
+Allocation :
 
-Ajusté selon score narratif et comportemental (voir tableau dynamique interne).
+Score narratif > 90 % : 400 €
 
-6. Stop dynamique
+Score 80-90 % : 300 €
 
-SL calculé selon type de token :
+Score < 80 % : blocage
 
-Memecoin ou token spéculatif : SL à -6% max.
+Stop-loss dynamique :
 
-Token à fondamentaux stables ou L2 : SL à -10% à -12% selon structure.
+Memecoin : -6 %
 
-Pas de SL fixe, toujours dynamique.
+Token fondamental : -10 %
 
-7. Conditions de sortie
+Stable comportement : -12 % max
 
-TP progressif si gain >8%.
+6. Cycle comportemental
 
-Sortie totale si 2 signaux se dégradent (volume, mentions, stabilité).
+Analyse toutes les 3 frappes.
 
-Pas de renfort autorisé sur un même trade.
+Mémoire locale activée :
 
-8. Phase d’observation initiale (forward testing passif)
+Patterns récurrents
 
-Durée : 48h à 72h
+Erreurs comportementales
 
-Observation uniquement :
+Taux de réussite par fenêtre horaire
 
-propagation des narratifs,
+Auto-ajustement :
 
-structure comportementale des tokens,
+Slot gelé en cas de drawdown > 12 %
 
-hiérarchie sociale.
+Suppression temporaire du module fautif
 
-Données enregistrées dans la mémoire interne (patterns rentables, signaux ratés, comportements erratiques).
+7. Phases critiques
 
-9. Apprentissage local
+< 1500 € : mode ultra-prudent (aucun renfort, aucun cluster)
 
-Analyse automatique après chaque batch de 3 frappes.
 
-Si drawdown détecté : gel des patterns fautifs.
 
-Slot temporairement désactivé si 2 frappes échouent sur un même type de structure.
+1500 € : ouverture du slot spéculatif (sous conditions)
 
-10. Verrouillage stratégique
+Objectif atteint à 3300 € : ✅ duplication possible
 
-Aucun ajout de module autorisé en cours de route.
+8. Duplication future (appliquée uniquement si 3300 € atteints)
 
-Aucun levier permis.
+✅ Un moteur de référence est verrouillé.
 
-Pas de swing long.
+✅ Deux moteurs complémentaires peuvent être déployés sur des créneaux différents :
 
-Pas de duplication tant que l’objectif n’est pas atteint.
+Fenêtre horaire distincte
 
-Le moteur ne change pas de mode.
+Pattern miroir
 
-11. Seuil de réussite & validation
+Narratif alternatif
 
-Objectif : atteindre 3300€
+Ces moteurs partagent la même architecture, mais pas la même spécialisation.
 
-Taux de réussite cible : ≥ 65%.
+9. Phase d'observation passive (forward testing)
 
-Nombre de trades minimum pour validation : 20
+Durée : 3 à 5 jours selon régime de marché
 
-Drawdown maximal accepté : 15%.
+Aucun trade ne sera passé
 
-12. Spécialisation principale
+Analyse passive des conditions :
 
-Spécialisation sur tokens narratifs à faible capitalisation, avec propagation rapide et structure propre.
+Narratifs dominants
 
-Exclusion des tokens illiquides ou en range permanent.
+Volumes par cycle horaire
 
-13. Flux utilisés (gratuits ou transposables)
+Patterns les plus récurrents
 
-Twitter (via API, scraping ou suivi manuel)
+10. Finalisation et verrouillage
 
-Telegram (groupes narratifs spécialisés)
+Une fois la phase passive validée, le moteur entre en mode actif.
 
-LunarCrush (version gratuite)
+Aucun ajout de module autorisé
 
-CoinMarketCap pour structure/volume
+Toute modification future passe par un moteur secondaire
 
-14. IA intégrées
+Objectif unique : 3300 € sans levier
 
-IA de scoring narratif croisé (agrégation Twitter + Telegram)
+11. Ajouts IA validés
 
-IA mémoire adaptative locale (gel/reclassement automatique des patterns inefficaces)
+A. IA de scoring narratif croisant 2 flux (actif)
 
-15. Finalité
+B. IA de mémoire locale adaptative (active)
 
-Si 3300€ atteints :
+Détecte les patterns inefficaces
 
-moteur verrouillé,
+Fige les structures à échec répété
 
-transposable à l’identique,
+Relance adaptative possible
 
-duplication possible,
+12. Conclusion
 
-utilisé comme base pour extensions futures (IA stratégique, modules shadow, journal crocs, etc.).
+Ce moteur est calibré pour faire partie du top 5 % des bots transposables, avec une stratégie chirurgicale, un cadre comportemental solide, une spécialisation stricte, et une architecture de duplication prévue.
+
+En cas de réussite, la stratégie globale démultiplie sa force grâce à des duplications sur des spécialisations dérivées mais compatibles.
+
